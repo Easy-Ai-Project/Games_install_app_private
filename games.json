@@ -1,1 +1,14 @@
-
+{
+    "64ec1953-6e46-4a25-ad7e-9ae4884f24fa": {
+        "id": "64ec1953-6e46-4a25-ad7e-9ae4884f24fa",
+        "name": "LOL",
+        "version": "V1.0.0",
+        "description": "JEU DE TEST",
+        "download_link": "https://file-examples.com/wp-content/storage/2017/02/zip_10MB.zip",
+        "image_url": "https://www.bing.com/images/search?view=detailV2&ccid=6Ckm4MGX&id=BDCB5001EEEC0C58214BF4F277DA8268B8B223FF&thid=OIP.6Ckm4MGXRjZgWQyRkjDDPgHaEK&mediaurl=https%3a%2f%2fsamples-files.com%2fsamples%2fimages%2fjpg%2f1920-1080-sample.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e82926e0c197463660590c919230c33e%3frik%3d%252fyOyuGiC2nfy9A%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=examples+download&simid=608013936811996100&FORM=IRPRST&ck=4E9729E92FBD56921E38CEE8750C3304&selectedIndex=1&itb=0",
+        "executable_filename": "",
+        "install_script_path": "",
+        "extract_path": "",
+        "is_portable": true
+    }
+}
